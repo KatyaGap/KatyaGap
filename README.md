@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ekaterina and I'm a FullStack JavaScript Developer!</h1>
+<h1>Hi there!👋 I'm Ekaterina and I'm a FullStack JavaScript Developer!</h1>
 
 
 <h3>Contact me:</h3>
