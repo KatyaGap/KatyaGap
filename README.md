@@ -6,7 +6,7 @@
 <h3>Contact me:</h3>
 <a href="https://t.me/katya_gap"><img src="https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png" width="50px" /></a>
 <a href="https://wa.me/79672451516"><img src="https://flyclipart.com/thumbs/whatsapp-share-button-whatsapp-flat-icon-1033370.png" width="50px" /></a>
-<a href="https://mailto:ekt.gaponenko@gmail.com"><img src="https://img1.freepng.ru/20180623/lqr/kisspng-gmail-email-attachment-g-suite-google-gmail-logo-5b2dff01f3f206.7260350515297410579992.jpg" width="50px" /></a>
+<a href="mailto:ekt.gaponenko@gmail.com"><img src="https://img1.freepng.ru/20180623/lqr/kisspng-gmail-email-attachment-g-suite-google-gmail-logo-5b2dff01f3f206.7260350515297410579992.jpg" width="50px" /></a>
 <hr>
 
 <h3>My stack:</h3>
