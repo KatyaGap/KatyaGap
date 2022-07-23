@@ -1,6 +1,6 @@
 
 <h1>Hi there!👋 I'm Ekaterina and I'm a FullStack JavaScript Developer!</h1>
-<img src="https://99px.ru/sstorage/86/2018/05/image_861105181009195977878.gif" />
+<img src="https://99px.ru/sstorage/86/2018/05/image_861105181009195977878.gif" width="100px" height="100px" />
 <hr>
 
 <h3>Contact me:</h3>
