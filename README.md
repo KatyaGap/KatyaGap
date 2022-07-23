@@ -4,8 +4,7 @@
 <hr>
 
 <h3>Contact me:</h3>
-<a target="_blank" href="https://t.me/katya_gap"><img
-    src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+[<img align="left" alt="Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />] https://t.me/katya_gap 
  <a target="_blank" href="mailto:ekt.gaponenko@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <hr>
