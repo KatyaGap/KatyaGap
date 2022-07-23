@@ -1,7 +1,9 @@
 
 <div align="center">
 <h1>Hi there! I'm Katya</h1>
- I'm Full Full Stack JavaScript Developer </p>
+I'm Full Stack developer </p>
+JavaScript, HTML, CSS, SQL, node.js, Postgres, React JS, Redux
+
 <img src="https://99px.ru/sstorage/86/2018/05/image_861105181009195977878.gif" width="200px" height="200px" />
 <hr>
 
