@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1>Welcome!</h1>
-  I'm Full Stack developer </p>
+ I'm Full Stack developer </p>
 JavaScript, HTML, CSS, SQL, node.js, Postgres, React JS, Redux
 
 I like travelling and active sports (beach soccer, rock climbing, snowboarding, windsurfing).
