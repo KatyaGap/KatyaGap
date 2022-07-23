@@ -7,7 +7,6 @@ I'm Full Stack developer </p>
 ```
 <img src="https://99px.ru/sstorage/86/2018/05/image_861105181009195977878.gif" width="400px" height="400px" />
 <h3>My stack:</h3>
-<hr>
 <p><strong>Frontend:</strong> JS, React, API, Redux (Saga, Thunk), HTML5, CSS3, Sass, Handlebars, Material-UI, Bootstrap</p>
 <p><strong>Backend:</strong> Node.js, Express, Sessions, CORS, Typescript (in process)</p>
 <p><strong>DB:</strong> PostgreSQL, Sequelize ORM</p>
