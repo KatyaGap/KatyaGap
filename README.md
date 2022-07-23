@@ -1,11 +1,9 @@
 
 <div align="center">
-<h1>Welcome!</h1>
- I'm Full Stack developer </p>
+I'm Full Stack developer </p>
 JavaScript, HTML, CSS, SQL, node.js, Postgres, React JS, Redux
 
 I like travelling and active sports (beach soccer, rock climbing, snowboarding, windsurfing).
-
 <hr>
 <img src="https://99px.ru/sstorage/86/2018/05/image_861105181009195977878.gif" width="200px" height="200px" />
 <h3>My stack:</h3>
