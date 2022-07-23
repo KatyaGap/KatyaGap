@@ -2,11 +2,8 @@
 
 
 <h3>Contact me:</h3>
-<p>
-<a href="https://t.me/katya_gap"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-<a href="https://wa.me/79672451516"><img src="https://pngicon.ru/file/uploads/whatsapp.png" width="40px" /></a>
-<a href="mailto:ekt.gaponenko@gmail.com"><img src="https://abrakadabra.fun/uploads/posts/2021-12/1639603716_1-abrakadabra-fun-p-pochta-ikonka-1.png" width="45px" /></a>
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/katya_gap)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekt.gaponenko@gmail.com)
 <hr>
 
 <h3>My stack:</h3>
