@@ -1,7 +1,9 @@
 
 <div align="center">
 <h1>Hi there!👋</h1>
-<h2>I'm Ekaterina and I'm a FullStack JavaScript Developer!</h2>
+  ```
+I'm Ekaterina and I'm a FullStack JavaScript Developer </p>
+  ```
 <img src="https://99px.ru/sstorage/86/2018/05/image_861105181009195977878.gif" width="200px" height="200px" />
 <hr>
 
