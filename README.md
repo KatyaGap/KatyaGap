@@ -4,6 +4,8 @@
   
 ```
 I'm Full Stack developer </p>
+```
+
 <h3>My stack:</h3>
 <hr>
 <p><strong>Frontend:</strong> JS, React, API, Redux (Saga, Thunk), HTML5, CSS3, Sass, Handlebars, Material-UI, Bootstrap</p>
@@ -11,7 +13,6 @@ I'm Full Stack developer </p>
 <p><strong>DB:</strong> PostgreSQL, Sequelize ORM</p>
 <p><strong>Another:</strong> Jest, REST</p>
 <hr>
-```
 <img src="https://99px.ru/sstorage/86/2018/05/image_861105181009195977878.gif" width="300px" height="400px" />
 <h3>Feel free to contact me:</h3>
 <a href="https://t.me/katya_gap"><img src="https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png" width="50px" /></a>
