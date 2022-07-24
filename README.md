@@ -3,6 +3,7 @@
   
 ```
 I'm Full Stack developer </p>
+I like dogs, travelling and running :)
 ```
 <img src="https://99px.ru/sstorage/86/2018/05/image_861105181009195977878.gif" width="400px" height="400px" />
 <hr>
