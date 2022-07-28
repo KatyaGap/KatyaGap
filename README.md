@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! I'm Katya!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <h1>Hi there! I'm Katya!👋</h1>
   
 ```
 I'm Full Stack developer </p>
